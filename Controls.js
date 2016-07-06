@@ -1,1 +1,1 @@
-document.body.innerHTML = document.body.innerHTML.replace('matt', 'mat');
+document.body.innerHTML = document.body.innerHTML.replace(/matt/g, 'mat');
