@@ -11,8 +11,16 @@ h3{
 }
 
 P{
+    
+    width:500px;
     text-align:center;
+    padding-left: 370;
 }
 body {
     background-color: #00ffff;
 }
+ul {
+    text-align:center;
+    padding:0 0 0 0;
+}
+
