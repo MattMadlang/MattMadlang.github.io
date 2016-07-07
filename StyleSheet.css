@@ -18,10 +18,13 @@ P{
     padding-left: 370;
 }
 body {
-    background-color: #00ffff;
+   /* background-color: #00ffff;*/
 }
 ul {
     text-align:center;
     padding:0 0 0 0;
 }
-
+header{
+    Background-color: #80ffbf;
+    
+}
