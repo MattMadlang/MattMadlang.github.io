@@ -3,6 +3,7 @@ h1 {
     text-shadow:2 2 #ffffff;
 }
 header{
+    Background-color: #80ffbf;
     height: 128px;
     text-align: center;
     line-height: 5;
@@ -23,13 +24,13 @@ P{
     padding-left: 370;
 }
 body {
+    background-image: url('./images/Background_image_website.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
    
 }
 ul {
     text-align:center;
     padding:0 0 0 0;
 }
-header{
-    Background-color: #80ffbf;
-    
-}
+
