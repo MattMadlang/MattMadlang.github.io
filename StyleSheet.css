@@ -2,6 +2,11 @@ h1 {
     
     text-shadow:2 2 #ffffff;
 }
+header{
+    height: 128px;
+    text-align: center;
+    line-height: 5;
+}
 h2{
     text-align:center;
 }
@@ -18,7 +23,7 @@ P{
     padding-left: 370;
 }
 body {
-   /* background-color: #00ffff;*/
+   
 }
 ul {
     text-align:center;
