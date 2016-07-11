@@ -41,6 +41,12 @@ body {
     background-position: center center;  
     background-size:cover;
     margin-bottom:30px;
+    opacity: 0.5;
+    
     
    
+}
+bodycover{
+    background-color: #660066;
+    opacity: 0.5;
 }
