@@ -23,6 +23,17 @@ P{
     text-align:center;
     padding-left: 370;
 }
+
+ul {
+    text-align:center;
+    padding:0 0 0 0;
+}
+.nav{
+    display:inline-block;
+    padding:30px;
+    
+}
+
 body {
     background-image: url('./Images/Background_image_website.jpg');
     background-repeat: no-repeat;
@@ -31,12 +42,4 @@ body {
     background-size:cover;
     
    
-}
-ul {
-    text-align:center;
-    padding:0 0 0 0;
-}
-.nav{
-    display:inline;
-    margin:auto;
 }
