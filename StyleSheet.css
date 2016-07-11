@@ -24,13 +24,19 @@ P{
     padding-left: 370;
 }
 body {
-    background-image: url('./images/Background_image_website.jpg');
+    background-image: url('./Images/Background_image_website.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center center;  
+    background-size:cover;
+    
    
 }
 ul {
     text-align:center;
     padding:0 0 0 0;
 }
-
+.nav{
+    display:inline;
+    margin:auto;
+}
