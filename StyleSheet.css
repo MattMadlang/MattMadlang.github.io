@@ -42,7 +42,7 @@ body {
     background-size:cover;
     margin-bottom:30px;
     
-    
+    color: white;
     
     
    
@@ -50,6 +50,8 @@ body {
 section {
     background-color:#660066;
     background-color: rgba(102,0,102,0.5);
-    color: #000000;
     
+}
+.welcome{
+    color:#ffffff;
 }
