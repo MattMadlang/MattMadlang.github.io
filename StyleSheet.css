@@ -2,22 +2,22 @@ h1 {
     
     text-shadow:2 2 #ffffff;
 }
-header{
+header {
     Background-color: #80ffbf;
     height: 128px;
     text-align: center;
-    line-height: 5;
+    padding: 20px;
 }
-h2{
+h2 {
     text-align:center;
 }
 
-h3{
+h3 {
     text-align:center;
     
 }
 
-p{
+p {
     
     width:500px;
     text-align:center;
@@ -28,7 +28,7 @@ ul {
     text-align:center;
     padding:0 0 0 0;
 }
-.nav{
+.nav {
     display:inline-block;
     padding:30px;
     color:#000000;
@@ -42,10 +42,7 @@ body {
     background-position: center center;  
     background-size:cover;
     margin-bottom:30px;
-    
     color: white;
-    
-    
    
 }
 section {
@@ -53,15 +50,19 @@ section {
     background-color: rgba(102,0,102,0.5);
     
 }
-.welcome{
+.welcome {
     color:black;
 }
-.main{
+.main {
     
      text-align:center;
      margin:auto;
 }
 
-div{
+div {
     background-color:#ffffff;
+}
+
+footer {
+    text-align:center;
 }
